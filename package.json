@@ -1,0 +1,23 @@
+{
+  "name": "pixi-graph",
+  "version": "0.0.1",
+  "description": "Graph visualisation with Pixi.js (WebGL)",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --watch",
+    "watch": "cross-env NODE_ENV=development webpack --watch --color",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "author": "todaylg",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "cross-env": "^5.0.5",
+    "d3-force": "^1.1.0",
+    "file-loader": "^1.1.4",
+    "pixi.js": "^4.5.6",
+    "svg-arc-to-cubic-bezier": "^3.0.0",
+    "webpack": "^3.6.0"
+  }
+}
