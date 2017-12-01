@@ -1,4 +1,4 @@
-# PGrrap
+# PGraph
 
 Graph visualisation with Pixi.js
 

@@ -1,7 +1,7 @@
 {
-  "name": "pixi-graph",
-  "version": "0.0.1",
-  "description": "Graph visualisation with Pixi.js (WebGL)",
+  "name": "PGraph",
+  "version": "0.1",
+  "description": "Graph visualisation with Pixi.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot --watch",
     "watch": "cross-env NODE_ENV=development webpack --watch --color",
