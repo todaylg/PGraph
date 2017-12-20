@@ -2,7 +2,7 @@
 
 Graph visualisation with Pixi.js
 
-### [Demo](http://todaylg.com:8088/)
+### [Demo](http://112.74.47.128:8088/)
 
 
 ## Example
